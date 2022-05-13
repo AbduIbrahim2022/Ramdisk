@@ -1,7 +1,12 @@
 # Ramdisk
 IPhone 6S - IPhone X
+
 Free Files For Devlopers
+
 with Source Code C# 
-Flashing
-Setup API Check ECID
-SSH USE FOR BACKUP
+
+1./Flashing
+
+2./Setup API Check ECID
+
+3./SSH USE FOR BACKUP & Restore
